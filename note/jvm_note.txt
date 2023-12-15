@@ -1,0 +1,10 @@
+why jvm uses interpreter to convert byte code to machine code?
+sol-> because compiler generate the file and that file is platform dependent and interpreter is platform execute is line by line and no file is generated.
+if we use compiler instead of interpreter, then it generate a file and if copy that file and try to run on other operating system then it will not work which and then java is not a platform independent language.
+** jvm is platform dependent.
+** all jvm understands bytecode
+C language = file.c->compiler->file.exe->windows->output 
+C convert code one time
+Java language = file.java->compiler->file.class->Windows JVM(uses interpreter)->output
+Java is platform independent
+C is faster than Java.
