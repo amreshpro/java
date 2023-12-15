@@ -8,3 +8,15 @@ C convert code one time
 Java language = file.java->compiler->file.class->Windows JVM(uses interpreter)->output
 Java is platform independent
 C is faster than Java.
+
+
+*******************************
+C compiler convert unicode intto bit code where as java compiler converts unicode int into byte code.
+In Java, byte code converted into bit code by JVM
+JVM stand for Java Virtual Machine.
+It is a part of JRE
+JRE is a part of JDK
+JDK stand for Java Development Kit and it is called Java Software.
+JVM contains interpreter and its convert byte code into bit code.
+Both compiler & interpreter are called translation Softwares.
+
