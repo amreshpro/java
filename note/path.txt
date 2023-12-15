@@ -1,0 +1,6 @@
+Full Stack Java Development Program
+1.Java Modules(Core Java, Advanced Java(JDBC,Servlets,JSP)),Hibernate, Spring Core,Spring MVC, Spring Boot.
+2.Database Modules(Oracle,SQL,PL/SQL,..etc)
+3.Testing Modules(Manual Testing,Selenuium,JUnit,Mokito,..etc)
+4. UI Modules(HTML,CSS,JavaScript,Tailwind,React/Angular,..etc)
+5.DevSecOps Modules(Maven,Gradle,LOG4J,JIRA,AJILE,..etc)
