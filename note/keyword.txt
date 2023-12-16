@@ -1,0 +1,19 @@
+java allow _,$ in starting of a indentifier(variable). eg-> int $num,_num2;
+Note: const and goto are not presently use in java (banned by java ).
+There are present total 50 keyword in java including strictfp,assert & enum.
+strictfp keyword included in JDK 1.2 version
+assert keyword included in JDK 1.4 version
+enum keyword included in JDK 1.5 version.
+Latest version of JDK is 21
+Note: keyword cannot be used as identifier.
+Literals = A literal is a source code representation of a fixed value.
+In Java, literal are divided into 6 categories
+1.Integer literal - 5,1,24,-5,-43,0 ..etc
+2.Floating point literals - 4.5,-67.56,0.005 ..etc
+3.Character literals - 'a', 'x','A','5','+','',..etc
+4.String literals - "a","Hii","Amresh",..etc
+5.Boolean literals - true, false
+6.Object literals - null
+
+Note : true,false & null are note keywords .
+Note : true,false & null are also cannot be used as an identifier.
