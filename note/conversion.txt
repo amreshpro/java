@@ -1,0 +1,23 @@
+type conversion
+note-> boolean cannot be converted to other types and other types cannot be converted to other types(14.)
+The following 19 conversion are done by system implicitly .These conversion are called widening conversion.
+1. byte to short,int,long,float,double    =>5 (except char)
+2. short to int,long,float,double         =>4 (except char)
+3. int to long,float,double               =>3 (except char)
+4. long to float,double                   =>2 (except char)
+5. float to double                        =>1 (except char)
+6. char to int,long,float,double          =>4 (except char)
+                                          + 19 
+
+The following functions 23 conversion  are must be done by programmer explicitly.
+these are called narrowing conversion.
+==============================================================================================
+byte->char =>1
+short->byte,char =>2
+int to byte,short,char =>3
+long to byte,short,int,char =>4
+float to byte,short,int,long,char =>5
+double to byte,short,int,long,float, char =>6
+char to byte,short =>2
+ Total  : +23 
+
