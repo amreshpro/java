@@ -1,13 +1,12 @@
-class Datatype{
+class Datatype {
   public static void main(String[] args) {
-    
     // questions 1
-    byte a =5;
-    byte b =10;
-    // byte c =a+b;  // error cannot conver from int to byte
+    byte a = 5;
+    byte b = 10;
+    // byte c =a+b; // error, cannot convert from int to byte
     float d = 15.6f;
     float e = 15.6f;
-float f = d+e;
+    float f = d + e;
     System.out.println(f);
 
     // questions 2
