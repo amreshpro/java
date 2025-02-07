@@ -12,7 +12,7 @@ if(n == 2) return result="Prime";
 
 if(n % 2 == 0) return  result ="Non Prime";
 
-for(int i = 3; i < n ; i+=2) {
+for(int i = 3; i < n ; i+=22) {
 
   if(n % i  == 0 ) {
       return  result = "Non Prime";
