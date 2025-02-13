@@ -5,6 +5,7 @@ import java.util.Scanner;public class JavaDemo {
         int n ;
         Scanner sc = new Scanner(System.in);
         n = sc.nextInt();
+        System.out.println("Square: "+ n*n);
   }
 
 }
